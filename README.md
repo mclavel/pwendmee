@@ -1,4 +1,4 @@
-# pwendmee
+# pwnedmee
 Another pwned tool, using https://ghostproject.fr project.
 
 # Install
