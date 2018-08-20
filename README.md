@@ -13,6 +13,6 @@ python pwnedmee.py --help
 ```
 
 # Color
-green: the user
-yellow: similar users (--warning)
-red: all others results
+  - green: the user
+  - yellow: similar users (--warning)
+  - red: all others results
